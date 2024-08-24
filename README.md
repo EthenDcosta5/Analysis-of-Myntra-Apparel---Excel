@@ -25,3 +25,7 @@ This project successfully highlights key trends in Myntra’s apparel items, unc
 ## Author
 
 Ethen Dcosta (@EthenDcosta5)
+
+## License
+
+This project is licensed under the MIT License.
