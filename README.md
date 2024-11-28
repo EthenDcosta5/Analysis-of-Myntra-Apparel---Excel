@@ -24,7 +24,7 @@ This project successfully highlights key trends in Myntra’s apparel items, unc
 
 ## Author
 
-Ethen Dcosta (@EthenDcosta5)
+Ethen Dcosta
 
 ## License
 
